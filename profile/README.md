@@ -1,4 +1,4 @@
-# TEAM 1 - UNO LEGAM 
+# TEAM 1 - UNO LEGAM kah?
 
 Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final Project, terdiri dari dua learning path yaitu: Backend Dev dan juga FullStack Web Dev. kami berfokus pada pengembangan solusi platform digital yang memungkinkan pengguna untuk memesan tiket pesawat secara online dengan mudah dan nyaman.
 
@@ -9,7 +9,7 @@ Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final 
 
 | Nama                              | Peran              | Kontak                                                |
 |-----------------------------------|--------------------|-------------------------------------------------------|
-| [Dhiya Ul Faruq](https://github.com/pentahead)        | Fullstack Web      | ![Email](https://img.shields.io/badge/Email-dhiya@example.com-blue) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)               |
+| [Dhiya Ul Faruq](https://github.com/pentahead)        | Fullstack Web      | ![Email](https://img.shields.io/badge/Email-dhiyaaf19@gmail.com-blue) ![LinkedIn](https://img.shields.io/badge/LinkedIn-[Profile](https://www.linkedin.com/in/dhiyaulfaruq/)-blue)               |
 | [Michael Joenathan Darwin](https://github.com/MichaelJD-MJD) | Fullstack Web      | ![Email](https://img.shields.io/badge/Email-michael@example.com-blue) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)             |
 | [Naila Jinan Gaisani](https://github.com/nellnelaa)   | Fullstack Web      | ![Email](https://img.shields.io/badge/Email-naila@example.com-blue) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)               |
 | [Muhammad Fadhillah Rahman](https://github.com/FadPro77) | Fullstack Web   | ![Email](https://img.shields.io/badge/Email-muhammad@example.com-blue) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)            |
