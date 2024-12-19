@@ -1,4 +1,4 @@
-# TEAM 1 - UNO LEGAM kah?
+# TEAM 1 - UNO LEGAM
 
 Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final Project, terdiri dari dua learning path yaitu: Backend Dev dan juga FullStack Web Dev. kami berfokus pada pengembangan solusi platform digital yang memungkinkan pengguna untuk memesan tiket pesawat secara online dengan mudah dan nyaman.
 
