@@ -9,14 +9,14 @@ Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final 
 
 | Nama                              | Role              | Contact                                                |
 |-----------------------------------|-------------------|-------------------------------------------------------|
-| [Dhiya Ul Faruq](https://github.com/pentahead)        | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiya%20Ul%20Faruq-blue?logo=linkedin)](https://www.linkedin.com/in/dhiyaulfaruq/) |
-| [Michael Joenathan Darwin](https://github.com/MichaelJD-MJD) | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Joenathan%20Darwin-blue?logo=linkedin)](https://www.linkedin.com/in/michael-joenathan-darwin/) |
-| [Naila Jinan Gaisani](https://github.com/nellnelaa)   | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naila%20Jinan%20Gaisani-blue?logo=linkedin)](https://www.linkedin.com/in/naila-jinan-gaisani/) |
-| [Muhammad Fadhillah Rahman](https://github.com/FadPro77) | Fullstack Web   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Fadhillah%20Rahman-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-fadhillah-rahman/) |
-| [Naufal Azmi Ginting](https://github.com/BoboiAzumi)  | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naufal%20Azmi%20Ginting-blue?logo=linkedin)](https://www.linkedin.com/in/naufal-azmi-ginting/) |
-| [Viery Nugroho](https://github.com/vierynugroho)      | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viery%20Nugroho-blue?logo=linkedin)](https://www.linkedin.com/in/viery-nugroho/) |
-| [Salsabilla Aulia](https://github.com/chacabilla)     | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salsabilla%20Aulia-blue?logo=linkedin)](https://www.linkedin.com/in/salsabilla-aulia/) |
-| [Yogi Hafidh Maulana](https://github.com/Yogihafidh)  | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogi%20Hafidh%20Maulana-blue?logo=linkedin)](https://www.linkedin.com/in/yogi-hafidh-maulana/) |
+| [Dhiya Ul Faruq](https://github.com/pentahead)        | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dhiyaulfaruq/) |
+| [Michael Joenathan Darwin](https://github.com/MichaelJD-MJD) | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael-joenathan-darwin/) |
+| [Naila Jinan Gaisani](https://github.com/nellnelaa)   | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/naila-jinan-gaisani/) |
+| [Muhammad Fadhillah Rahman](https://github.com/FadPro77) | Fullstack Web   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-fadhillah-rahman/) |
+| [Naufal Azmi Ginting](https://github.com/BoboiAzumi)  | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/naufal-azmi-ginting/) |
+| [Viery Nugroho](https://github.com/vierynugroho)      | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/viery-nugroho/) |
+| [Salsabilla Aulia](https://github.com/chacabilla)     | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salsabilla-aulia/) |
+| [Yogi Hafidh Maulana](https://github.com/Yogihafidh)  | Backend            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yogi-hafidh-maulana/) |
 
 ---
 
