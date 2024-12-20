@@ -1,6 +1,6 @@
 # TEAM 1 - UNO LEGAM
 
-Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final Project, terdiri dari dua learning path yaitu: Backend Dev dan juga FullStack Web Dev. kami berfokus pada pengembangan solusi platform digital yang memungkinkan pengguna untuk memesan tiket pesawat secara online dengan mudah dan nyaman.
+Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final Project, terdiri dari dua learning path yaitu: Backend Javascript  dan juga FullStack Web . Proyek ini berfokus pada pengembangan platform digital inovatif yang memungkinkan pengguna memesan tiket pesawat secara online dengan mudah, cepat, dan nyaman.
 
 ---
 
@@ -20,8 +20,8 @@ Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final 
 
 ---
 
-## 📂 Repositori
-Beberapa repositori utama kami:
+## 📂 Repository
+Beberapa repository utama kami:
 - **[frontend](https://github.com/TIM1-FSW-BE-BINAR/Frontend)**: ✈️ Frontend of AirFly Tickets Website
 - **[Admin Dashboard](https://github.com/TIM1-FSW-BE-BINAR/Admin-Dashboard)**: 💻 Admin Dashboard of AirFly Tickets Website
 - **[Backend](https://github.com/TIM1-FSW-BE-BINAR/Backend)**: 🌐 Backend of AirFly Tickets Website
