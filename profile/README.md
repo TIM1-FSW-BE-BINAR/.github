@@ -1,13 +1,13 @@
 # TEAM 1 - UNO LEGAM
 
-Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final Project, terdiri dari dua learning path yaitu: Backend Javascript  dan juga FullStack Web . Proyek ini berfokus pada pengembangan platform digital inovatif yang memungkinkan pengguna memesan tiket pesawat secara online dengan mudah, cepat, dan nyaman.
+Welcome to our GitHub page! 🎉 We are Team 1 from Binar KM-7 Final Project, comprising two learning paths: Backend JavaScript (BEJS-1) and FullStack Web (FSW-1). This project focuses on developing an innovative digital platform that enables users to book flight tickets online easily, quickly, and conveniently.
 
 ---
 
 ## 👥 Anggota Tim
 
 
-| Nama                              | Role              | Contact                                                |
+| Name                              | Path              | Contact                                                |
 |-----------------------------------|-------------------|-------------------------------------------------------|
 | [Dhiya Ul Faruq](https://github.com/pentahead)        | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dhiyaulfaruq/) |
 | [Michael Joenathan Darwin](https://github.com/MichaelJD-MJD) | Fullstack Web      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michael-joenathan-darwin/) |
@@ -21,13 +21,13 @@ Selamat datang di halaman GitHub kami! 🎉 Kami adalah Team 1 Binar KM-7 Final 
 ---
 
 ## 📂 Repository
-Beberapa repository utama kami:
+Here are some of our main repositories:
 - **[frontend](https://github.com/TIM1-FSW-BE-BINAR/Frontend)**: ✈️ Frontend of AirFly Tickets Website
 - **[Admin Dashboard](https://github.com/TIM1-FSW-BE-BINAR/Admin-Dashboard)**: 💻 Admin Dashboard of AirFly Tickets Website
 - **[Backend](https://github.com/TIM1-FSW-BE-BINAR/Backend)**: 🌐 Backend of AirFly Tickets Website
 
-Lihat semua repositori kami di [GitHub Organization](https://github.com/orgs/TIM1-FSW-BE-BINAR/repositories).
+Check out all our repositories on the [GitHub Organization](https://github.com/orgs/TIM1-FSW-BE-BINAR/repositories).
 
 ---
 
-Terima kasih telah mengunjungi halaman kami! 🚀
+Thank you for visiting our page! 🚀
